@@ -1,2 +1,2 @@
 # DataScience_Case_Study
-Case studies data science
+Case studies in data science for establishing a product startup
